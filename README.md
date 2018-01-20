@@ -1,2 +1,3 @@
 # hello-world
-juat another repositroty
+
+it's hard to spell someitmes
